@@ -1,6 +1,7 @@
 # 📊 Marketing Campaign Performance & Customer Acquisition Analysis
 
-🔹 Business Context
+
+## 🔹 Business Context
 
 Marketing effectiveness depends on understanding how customer demographics, purchasing behavior, product preferences, sales channels, and promotional campaigns interact with each other.
 
@@ -8,7 +9,7 @@ Using the marketing mix framework (People, Product, Place, Promotion), this proj
 
 The goal is to help marketing teams make data-driven decisions related to targeting, channel investment, and campaign optimization.
 
-🔹 Business Objective
+## 🔹 Business Objective
 
 The objective of this analysis is to:
 
@@ -22,7 +23,7 @@ Validate marketing assumptions using statistical hypothesis testing
 
 Provide actionable insights to improve customer acquisition strategy
 
-🔹 Dataset Overview
+## 🔹 Dataset Overview
 
 The dataset includes customer-level information related to:
 
@@ -54,7 +55,7 @@ Complaints
 
 Campaign response behavior
 
-🔹 Tools & Technologies
+## 🔹 Tools & Technologies
 
 Python
 
@@ -66,7 +67,7 @@ SciPy (Hypothesis Testing)
 
 Jupyter Notebook
 
-🔹 Data Preparation & Feature Engineering
+## 🔹 Data Preparation & Feature Engineering
 
 Key preprocessing steps included:
 
