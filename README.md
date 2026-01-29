@@ -1,5 +1,11 @@
 # 📊 Marketing Campaign Performance & Customer Acquisition Analysis
 
+## ⭐ Project Highlights
+- End-to-end customer acquisition analysis
+- Feature engineering and missing value imputation
+- Hypothesis testing using statistical methods
+- Business-focused insights and recommendations
+- Clean storytelling visualizations
 
 ## 🔹 Business Context
 
