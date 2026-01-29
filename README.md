@@ -79,53 +79,53 @@ The following analyses were performed:
 
 Statistical tests were conducted to validate common marketing assumptions:
 
-1️⃣ Older customers prefer in-store shopping
-2️⃣ Customers with children prefer online purchases
-3️⃣ Alternative sales channels cannibalize in-store sales
-4️⃣ Customers in the US outperform other countries in total purchases
+- 1️⃣ Older customers prefer in-store shopping
+- 2️⃣ Customers with children prefer online purchases
+- 3️⃣ Alternative sales channels cannibalize in-store sales
+- 4️⃣ Customers in the US outperform other countries in total purchases
 
 Appropriate parametric and non-parametric tests were applied based on data distribution characteristics.
 
 ## 🔹 Key Insights
 
-Customers with fewer or no children exhibit significantly higher total spending
-Product categories such as wine and meat contribute disproportionately to total revenue
-Channel preference varies across age groups, but older customers do not exclusively prefer in-store purchases
-Minimal evidence of sales cannibalization between channels
-Campaign response rates differ meaningfully by geography
-Certain countries demonstrate consistently higher engagement with promotions
+- Customers with fewer or no children exhibit significantly higher total spending
+- Product categories such as wine and meat contribute disproportionately to total revenue
+- Channel preference varies across age groups, but older customers do not exclusively prefer in-store purchases
+- Minimal evidence of sales cannibalization between channels
+- Campaign response rates differ meaningfully by geography
+- Certain countries demonstrate consistently higher engagement with promotions
 
 ## 🔹 Business Recommendations
 
-Focus marketing campaigns on high-value customer segments identified by age and household structure
-Allocate promotional budgets toward top-performing product categories
-Optimize channel investment based on demographic preferences rather than assumptions
-Use geographic insights to tailor localized campaign strategies
-Leverage campaign response patterns for targeted re-marketing initiatives
+- Focus marketing campaigns on high-value customer segments identified by age and household structure
+- Allocate promotional budgets toward top-performing product categories
+- Optimize channel investment based on demographic preferences rather than assumptions
+- Use geographic insights to tailor localized campaign strategies
+- Leverage campaign response patterns for targeted re-marketing initiatives
 
 ## 🔹 Deliverables
 
-Cleaned and feature-engineered dataset
-Exploratory analysis notebook
-Statistical validation of business hypotheses
-Visual storytelling charts
-Insight summary for decision-makers
+- Cleaned and feature-engineered dataset
+- Exploratory analysis notebook
+- Statistical validation of business hypotheses
+- Visual storytelling charts
+- Insight summary for decision-makers
 
 ## 🔹 Sample Visualizations
 
-Product revenue comparison
-Channel-wise purchase behavior
-Campaign response by age and country
-Correlation heatmap
+- Product revenue comparison
+- Channel-wise purchase behavior
+- Campaign response by age and country
+- Correlation heatmap
 
 ## ✅ Outcome & Impact
 
-This project demonstrates how structured data analysis can be used to:
-Improve customer segmentation
-Optimize marketing channel investments
-Enhance campaign targeting strategies
-Support data-driven decision-making
-The analysis showcases a complete workflow — from raw data preprocessing to insight generation and business recommendations.
+- This project demonstrates how structured data analysis can be used to:
+- Improve customer segmentation
+- Optimize marketing channel investments
+- Enhance campaign targeting strategies
+- Support data-driven decision-making
+- The analysis showcases a complete workflow — from raw data preprocessing to insight generation and business recommendations.
 
 ## 📁 Repository Structure
 marketing-campaign-analysis/
