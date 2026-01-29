@@ -4,24 +4,17 @@
 ## 🔹 Business Context
 
 Marketing effectiveness depends on understanding how customer demographics, purchasing behavior, product preferences, sales channels, and promotional campaigns interact with each other.
-
 Using the marketing mix framework (People, Product, Place, Promotion), this project analyzes customer data to uncover the key drivers of customer acquisition and campaign success.
-
 The goal is to help marketing teams make data-driven decisions related to targeting, channel investment, and campaign optimization.
 
 ## 🔹 Business Objective
 
-The objective of this analysis is to:
-
-Understand customer demographics and spending behavior
-
-Identify factors influencing campaign response
-
-Analyze product and channel performance
-
-Validate marketing assumptions using statistical hypothesis testing
-
-Provide actionable insights to improve customer acquisition strategy
+-The objective of this analysis is to:
+-Understand customer demographics and spending behavior
+-Identify factors influencing campaign response
+-Analyze product and channel performance
+-Validate marketing assumptions using statistical hypothesis testing
+-Provide actionable insights to improve customer acquisition strategy
 
 ## 🔹 Dataset Overview
 
