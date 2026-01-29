@@ -9,12 +9,12 @@ The goal is to help marketing teams make data-driven decisions related to target
 
 ## 🔹 Business Objective
 
--The objective of this analysis is to:
--Understand customer demographics and spending behavior
--Identify factors influencing campaign response
--Analyze product and channel performance
--Validate marketing assumptions using statistical hypothesis testing
--Provide actionable insights to improve customer acquisition strategy
+- The objective of this analysis is to:
+- Understand customer demographics and spending behavior
+- Identify factors influencing campaign response
+- Analyze product and channel performance
+- Validate marketing assumptions using statistical hypothesis testing
+- Provide actionable insights to improve customer acquisition strategy
 
 ## 🔹 Dataset Overview
 
