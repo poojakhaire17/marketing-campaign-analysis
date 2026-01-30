@@ -2,7 +2,7 @@
 
 ---
 
-## 🚀 Project Summary (Client-Friendly)
+## 🚀 Project Summary 
 
 This project analyzes marketing campaign performance and customer acquisition behavior using real-world customer data.
 
